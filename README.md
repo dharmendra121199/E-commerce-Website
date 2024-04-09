@@ -21,7 +21,7 @@ This project is an e-commerce website created using HTML and CSS. The website fe
 
 ![Product ](E-commerce-Website\Product.jpg)
 
-![Shop](C:\Users\hp\Documents\GitHub\E-commerce-Website\Shop.jpg)
+![Shop](C:/Users/hp/Documents/GitHub/E-commerce-Website/Shop.jpg)
 
 
 ## Installation
