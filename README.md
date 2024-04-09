@@ -17,9 +17,9 @@ This project is an e-commerce website created using HTML and CSS. The website fe
 
 ## Screenshots
 
-![Screenshot 1](C:\Users\hp\Documents\GitHub\E-commerce-Website\Home.png)
-![Screenshot 2](C:\Users\hp\Documents\GitHub\E-commerce-Website\Product.png)
-![Screenshot 3](C:\Users\hp\Documents\GitHub\E-commerce-Website\Shop.png)
+![Home](C:\Users\hp\Documents\GitHub\E-commerce-Website\Home.png)
+![Product ](C:\Users\hp\Documents\GitHub\E-commerce-Website\Product.png)
+![Shop](C:\Users\hp\Documents\GitHub\E-commerce-Website\Shop.png)
 
 ## Installation
 
